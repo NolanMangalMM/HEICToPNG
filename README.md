@@ -5,7 +5,7 @@ This repo will ignore files which do not have a file extension of .HEIC. It will
 actually .HEIC files.
 
 
-##Usage
+## Usage
 
 python3 heic2png.py -d <input directory> -o <output directory> -t <number of threads to use> 
 
