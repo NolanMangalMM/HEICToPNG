@@ -7,7 +7,7 @@ actually .HEIC files.
 
 ## Usage
 
-python3 heic2png.py -d <input directory> -o <output directory> -t <number of threads to use> 
+python3 heic2png.py -d <input directory<why does this disappear >> -o <output directory<asda>> -t <number of threads to use<asdsa>> 
 
 Number of threads is not required and will default to 1. 
 
